@@ -2,6 +2,12 @@
 
 This guide provides comprehensive setup and integration instructions for the MFPS addons included in this project.
 
+> **⚠️ IMPORTANT DISCLAIMER**
+>
+> **These are NOT official MFPS addons.** A copy of MFPS is not included in this repository and needs to be purchased officially from the Unity Asset Store. These are custom-developed addons created for educational and development purposes.
+>
+> **This addon is not a drop-in replacement.** Out of the box, it may not fully work and could contain bugs. Make sure to backup your project before integrating it. Think of it as a starting point for development rather than a finished system.
+
 ## Addons Overview
 
 ### 1. Advanced Movement Addon
